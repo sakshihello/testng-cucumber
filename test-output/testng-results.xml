@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-05T20:19:18 IST" name="Default suite" finished-at="2024-05-05T20:20:13 IST" duration-ms="54392">
+    <groups>
+    </groups>
+    <test started-at="2024-05-05T20:19:18 IST" name="Default test" finished-at="2024-05-05T20:20:13 IST" duration-ms="54392">
+      <class name="Tests.Homepagetest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:18:34 IST" name="setup" finished-at="2024-05-05T20:19:18 IST" duration-ms="44456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="exceldata(java.lang.String,java.lang.String)[pri:1, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:19:36 IST" name="exceldata" data-provider="urlData" finished-at="2024-05-05T20:19:48 IST" duration-ms="12020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[url]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.pizzahut.co.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exceldata -->
+        <test-method signature="Enterlocation()[pri:2, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:19:48 IST" name="Enterlocation" finished-at="2024-05-05T20:19:50 IST" duration-ms="1686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enterlocation -->
+        <test-method signature="SelectDropdown()[pri:3, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:19:50 IST" name="SelectDropdown" finished-at="2024-05-05T20:19:51 IST" duration-ms="899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropdown -->
+        <test-method signature="side()[pri:4, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:19:51 IST" name="side" finished-at="2024-05-05T20:20:00 IST" duration-ms="8573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- side -->
+        <test-method signature="txt()[pri:5, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:00 IST" name="txt" finished-at="2024-05-05T20:20:00 IST" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- txt -->
+        <test-method signature="checkprice()[pri:6, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:00 IST" name="checkprice" finished-at="2024-05-05T20:20:01 IST" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkprice -->
+        <test-method signature="drinkspage()[pri:7, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:01 IST" name="drinkspage" finished-at="2024-05-05T20:20:02 IST" duration-ms="1125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drinkspage -->
+        <test-method signature="drinkspage1()[pri:8, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:02 IST" name="drinkspage1" finished-at="2024-05-05T20:20:04 IST" duration-ms="1996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drinkspage1 -->
+        <test-method signature="btncheckout()[pri:9, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:04 IST" name="btncheckout" finished-at="2024-05-05T20:20:06 IST" duration-ms="2085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btncheckout -->
+        <test-method signature="radioselect()[pri:10, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:06 IST" name="radioselect" finished-at="2024-05-05T20:20:07 IST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radioselect -->
+        <test-method signature="cashselect()[pri:11, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:07 IST" name="cashselect" finished-at="2024-05-05T20:20:07 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cashselect -->
+        <test-method signature="checkboxselection()[pri:12, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:07 IST" name="checkboxselection" finished-at="2024-05-05T20:20:08 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkboxselection -->
+        <test-method signature="persondetails()[pri:13, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:08 IST" name="persondetails" finished-at="2024-05-05T20:20:09 IST" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- persondetails -->
+        <test-method signature="card()[pri:14, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:09 IST" name="card" finished-at="2024-05-05T20:20:10 IST" duration-ms="1563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- card -->
+        <test-method signature="voucherlink()[pri:15, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:10 IST" name="voucherlink" finished-at="2024-05-05T20:20:11 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- voucherlink -->
+        <test-method signature="enterdetails()[pri:16, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:11 IST" name="enterdetails" finished-at="2024-05-05T20:20:11 IST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterdetails -->
+        <test-method signature="errormessage()[pri:17, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:11 IST" name="errormessage" finished-at="2024-05-05T20:20:12 IST" duration-ms="999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- errormessage -->
+        <test-method signature="crossbtn()[pri:18, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:12 IST" name="crossbtn" finished-at="2024-05-05T20:20:13 IST" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crossbtn -->
+        <test-method signature="navigatetopage()[pri:19, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:13 IST" name="navigatetopage" finished-at="2024-05-05T20:20:13 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetopage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.Homepagetest@4f5991f6]" started-at="2024-05-05T20:20:15 IST" name="teardown" finished-at="2024-05-05T20:20:19 IST" duration-ms="4522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.Homepagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
